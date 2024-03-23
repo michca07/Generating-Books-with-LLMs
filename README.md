@@ -4,11 +4,11 @@
 ## Introduction
 This repository explores the application of Large Language Models (LLMs) to generate philosophical books, utilizing advanced AI models such as GPT-4 (gpt-4-0125-preview), OpenAI's GPT-3 (gpt-3.5-turbo-16k), and Google's Gemma (gemma:7b). The titles of the generated books are as follows:
 
-**GPT-4:** "Mind, Machine, and Morality: Navigating the Philosophical Frontiers of Artificial Intelligence"
+- **[GPT-4: Mind, Machine, and Morality: Navigating the Philosophical Frontiers of Artificial Intelligence (PDF)](https://github.com/michca07/Generating-Books-with-LLMs/blob/main/docs/book_by_GPT4.pdf)**
 
-**GPT-3:** "The Ethical Nexus: Exploring AI's Philosophical Frontiers"
+- **[GPT-3: The Ethical Nexus: Exploring AI's Philosophical Frontiers (PDF)](https://github.com/michca07/Generating-Books-with-LLMs/blob/main/docs/book_by_GPT3.pdf)**
 
-**Gemma-7b:** "The Turing's Legacy: Philosophical Intersections with Artificial Intelligence"
+- **[Gemma-7b: The Turing's Legacy: Philosophical Intersections with Artificial Intelligence (PDF)](https://github.com/michca07/Generating-Books-with-LLMs/blob/main/docs/book_by_Gemma7b.pdf)**
 
 Additionally, I attempted to utilize the **Anthropic Claude 3 Opus** model. However, despite multiple attempts and experiences with their service, including encountering server errors and reaching token-per-day limits, obtaining a book from the Anthropic model proved unsuccessful. Despite these challenges, this repository showcases the capabilities and insights gained through the utilization of various LLMs in philosophical exploration.
 
