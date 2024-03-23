@@ -13,9 +13,9 @@ This repository explores the application of Large Language Models (LLMs) to gene
 Additionally, I attempted to utilize the **Anthropic Claude 3 Opus** model. However, despite multiple attempts and experiences with their service, including encountering server errors and reaching token-per-day limits, obtaining a book from the Anthropic model proved unsuccessful. Despite these challenges, this repository showcases the capabilities and insights gained through the utilization of various LLMs in philosophical exploration.
 
 <p float="left">
-  <img src="images/Cover_GPT_4.png" alt="GPT-4" width="100"/> 
-  <img src="images/Cover_GPT_3.png" alt="GPT-3" width="100"/> 
-  <img src="images/Cover_Gemma_7b.png" alt="Gemma-7b" width="100"/>
+  <img src="images/Cover_GPT_4.png" alt="GPT-4" width="200"/> 
+  <img src="images/Cover_GPT_3.png" alt="GPT-3" width="200"/> 
+  <img src="images/Cover_Gemma_7b.png" alt="Gemma-7b" width="200"/>
 </p>
 
 ## Models Used
