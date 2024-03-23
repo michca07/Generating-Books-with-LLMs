@@ -1,0 +1,7 @@
+langchain
+langchain-core
+langchain-community
+openai
+ollama
+python-dotenv
+docx
